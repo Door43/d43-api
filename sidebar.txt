@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[api:home|Door43 (api)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-api|d43-api repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-api/archive/master.zip|d43-api.zip]]
+
+**Recent Changes**
+{{changes>ns = api}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/api|Ethnologue data]]
+
